@@ -17,6 +17,10 @@ footer{
 /* end of letters */
 
 /* custom */
+q{
+	font-style: italic;
+}
+
 [epub|type~="dedication"]{
 	margin-top: 3em;
 }
