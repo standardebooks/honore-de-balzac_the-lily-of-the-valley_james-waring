@@ -39,14 +39,15 @@
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta id="collection-2" property="belongs-to-collection">The Human Comedy: Scenes from Provincial Life</meta>
 		<meta property="collection-type" refines="#collection-2">series</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A young man obsessed with a married woman ingratiates his way into the life of her family.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Natalie, Félix Vandenesse’s current love, wants to know about his past, why he tends to brood even in the happiest of times. &lt;i&gt;Lily of the Valley&lt;/i&gt; is his first-person response, a short account of his childhood followed by a much longer narration of his friendship, and near-obsession, with a married woman.&lt;/p&gt;
+			&lt;p&gt;Although born into a well-to-do family, Félix’s story of his school years is one of neglect, of parents who send him off to various schools and family and provide the bareest means for him while he’s there. While attending his first fête in his early adulthood, he sees a woman who so dazzles him that he takes an enormous liberty, resulting in her exclaiming at him and walking away. After several days of his moping around the house, Félix’s mother decides he needs fresh air to overcome his apathy (for which she does not know the cause), and sends him off to friends in the country.&lt;/p&gt;
+			&lt;p&gt;After arriving, he soon discovers that his new temporary residence is adjacent to the estate of his obsession. Taken for introductions by his mother’s friend, he finds she is a married mother of two, named Madame de Mortsauf. Through several initial visits, Félix establishes a rapport with Comte de Mortsauf, and Madame de Mortsauf tells him they can be friends, but only friends. Disappointed, but deciding that something is better than nothing, Félix agrees, and soon becomes an intimate friend of the family. The rest of his tale is the story of that friendship and the strains it puts on him.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<!-- SCANS -->
 		<dc:source>https://archive.org/details/worksofhonorde17balzuoft</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Lily_of_the_Valley</meta>
