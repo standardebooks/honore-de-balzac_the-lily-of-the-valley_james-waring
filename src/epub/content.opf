@@ -59,7 +59,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">James Waring</dc:contributor>
 		<meta property="file-as" refines="#translator">Waring, James</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/James_Waring</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Ellen_Marriage</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/no2011175118</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Thomas Lawrence</dc:contributor>
