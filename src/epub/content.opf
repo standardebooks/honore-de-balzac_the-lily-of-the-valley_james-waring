@@ -101,9 +101,9 @@
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="dedication.xhtml"/>
 		<itemref idref="halftitlepage.xhtml"/>
-		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="the-lily-of-the-valley.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
 </package>
